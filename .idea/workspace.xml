@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f818ca2-1d4a-467e-9227-9ec687278c42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WYDgBRbYgWuDFzTixG7D9qeaMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Neural PDEs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.steady_1D_heat_equation">
+    <configuration name="ode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural PDEs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="steady_1D_heat_equation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural PDEs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steady_1D_heat_equation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="steady_2D_heat_equation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural PDEs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steady_2D_heat_equation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="steady_2D_heat_equation_noclosure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural PDEs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steady_2D_heat_equation_noclosure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="steady_2D_heat_equation_simplifying" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural PDEs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steady_2D_heat_equation_simplifying.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ode" />
+      <item itemvalue="Python.steady_1D_heat_equation" />
+      <item itemvalue="Python.steady_2D_heat_equation" />
+      <item itemvalue="Python.steady_2D_heat_equation_noclosure" />
+      <item itemvalue="Python.steady_2D_heat_equation_simplifying" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.steady_1D_heat_equation" />
+        <item itemvalue="Python.steady_1D_heat_equation" />
+        <item itemvalue="Python.steady_2D_heat_equation" />
+        <item itemvalue="Python.steady_2D_heat_equation_simplifying" />
+        <item itemvalue="Python.steady_2D_heat_equation_simplifying" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f818ca2-1d4a-467e-9227-9ec687278c42" name="Default Changelist" comment="" />
+      <created>1579317743302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579317743302</updated>
+      <workItem from="1579317744807" duration="21404000" />
+      <workItem from="1579405248105" duration="1257000" />
+      <workItem from="1579570431045" duration="6407000" />
+      <workItem from="1582862127673" duration="2648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1174" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579571724379">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1174" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579571724379" />
+    <state x="1136" y="808" width="935" height="592" key="#xdebugger.evaluate" timestamp="1579577679594">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1225" y="668" width="951" height="592" key="#xdebugger.evaluate/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362139049" />
+    <state x="893" y="233" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1579327119128" />
+    <state x="1136" y="808" width="935" height="592" key="#xdebugger.evaluate/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579577679594" />
+    <state x="933" y="169" key="FileChooserDialogImpl" timestamp="1579327563480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579327563480" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.bottom" timestamp="1579583052212">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.0.bottom/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.bottom/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052212" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.center" timestamp="1579583052212">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.0.center/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.center/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052212" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.left" timestamp="1579583052212">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.0.left/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.left/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052212" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.right" timestamp="1579583052212">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.0.right/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.0.right/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052212" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.bottom" timestamp="1579583052213">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.1.bottom/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.bottom/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052213" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.center" timestamp="1579583052213">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.1.center/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.center/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052213" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.left" timestamp="1579583052213">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.1.left/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.left/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052213" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.right" timestamp="1579583052213">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1256" height="622" key="GridCell.Tab.1.right/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362188120" />
+    <state width="1256" height="622" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579398317160" />
+    <state width="1699" height="1272" key="GridCell.Tab.1.right/3440.-294.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1579583052213" />
+    <state width="1728" height="708" key="XDebugger.FullValuePopup" timestamp="1579362073755">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1728" height="708" key="XDebugger.FullValuePopup/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579362073755" />
+    <state x="965" y="246" width="1505" height="1152" key="search.everywhere.popup" timestamp="1579359613424">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="965" y="246" width="1505" height="1152" key="search.everywhere.popup/-1920.14.1536.832/0.0.3440.1400/-3840.0.1920.1160@0.0.3440.1400" timestamp="1579359613424" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579327272390" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gradient_testing.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/steady_2D_heat_equation_simplifying.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="x" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Neural_PDEs$steady_2D_heat_equation.coverage" NAME="steady_2D_heat_equation Coverage Results" MODIFIED="1579571726350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_PDEs$steady_1D_heat_equation.coverage" NAME="steady_1D_heat_equation Coverage Results" MODIFIED="1579327101172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_PDEs$steady_2D_heat_equation_simplifying.coverage" NAME="steady_2D_heat_equation_simplifying Coverage Results" MODIFIED="1579575173244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_PDEs$gradient_testing.coverage" NAME="gradient_testing Coverage Results" MODIFIED="1579322108475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
